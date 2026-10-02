@@ -1,0 +1,4 @@
+-This is a Python office-space rental business application. Use SPEC.md for the model, scope, booking behavior requirements, and which files are allowed to edit.
+-Preserve creation behaviour, the existing model and public function signatures. Keep the change limited to booking requirements.
+-Run uv run --python 3.12 python -m unittest -v test_move_smoke after changes.
+-Stop after the agreed edit and show the changed files for review.
